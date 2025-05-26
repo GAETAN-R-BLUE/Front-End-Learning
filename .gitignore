@@ -1,0 +1,56 @@
+# IntelliJ project files
+.idea/
+*.iml
+
+# Output folders
+out/
+
+# System folders (Windows)
+Application Data/
+Cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+
+# Java class files
+*.class
+
+# Logs
+*.log
+# Ignore system/user folders
+/3D Objects/
+/AppData/
+/Contacts/
+/Documents/
+/Downloads/
+/Favorites/
+/Links/
+/NTUSER.DAT
+/OneDrive*/
+/Saved Games/
+/Searches/
+/Tracing/
+/bluej/
+/*.LOG
+
+# IntelliJ & build stuff
+.idea/
+*.iml
+out/
+*.class
+
+# VSCode & misc
+.vscode/
+node_modules/
+/IBM_REPO/
+/JAVAPROGRAMING/Assignment 2.0/
+/JAVAPROGRAMING/Assignment2.0/
+/JAVAPROGRAMING/JavaCollection/
+/JAVAPROGRAMING/JavaFileHandeling/
+/JAVAPROGRAMING/OOP/
+
