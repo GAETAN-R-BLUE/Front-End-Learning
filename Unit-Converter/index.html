@@ -1,10 +1,47 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Title</title>
+  <meta charset="UTF-8">
+  <title>Unit Converter</title>
+  <!-- Link to the external CSS file -->
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
+  <header>
+    <h1>Unit Converter</h1>
+  </header>
 
+  <main>
+    <!-- Temperature Section -->
+    <section>
+      <h2>Temperature: Celsius to Fahrenheit</h2>
+      <input type="number" id="celsius" placeholder="Enter °C">
+      <button onclick="convertTemperature()">Convert</button>
+      <p id="fahrenheitResult"></p>
+    </section>
+
+    <!-- Weight Section -->
+    <section>
+      <h2>Weight: Kilograms to Pounds</h2>
+      <input type="number" id="kilograms" placeholder="Enter kg">
+      <button onclick="convertWeight()">Convert</button>
+      <p id="poundsResult"></p>
+    </section>
+
+    <!-- Distance Section -->
+    <section>
+      <h2>Distance: Kilometers to Miles</h2>
+      <input type="number" id="kilometers" placeholder="Enter km">
+      <button onclick="convertDistance()">Convert</button>
+      <p id="milesResult"></p>
+    </section>
+  </main>
+
+  <footer>
+    <p>Created by Rodrigue</p>
+  </footer>
+
+  <!-- Link to the external JavaScript file -->
+  <script src="script.js"></script>
 </body>
 </html>
