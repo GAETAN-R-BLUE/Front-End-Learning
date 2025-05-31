@@ -1,0 +1,105 @@
+body{
+    background-color: #647c74a2;
+
+}
+#Temperature{
+    background-color: rgb(236, 156, 156);
+    color: black;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-right: 10px;
+    cursor: pointer;
+    height: 40px;
+    width: 110;
+        border: white;
+    
+}
+#Weight {
+    background-color: bisque;
+    border-radius: 10px;
+    margin-right: 10px;
+        cursor: pointer;
+        height: 40px;
+    width: 110;
+        border: white;
+
+}
+#Distance {
+    background-color: beige;
+        border-radius: 10px;
+        margin-right: 10px;
+            cursor: pointer;
+            height: 40px;
+    width: 110;
+        border: white;
+
+}
+
+#Time {
+    background-color: aqua;
+        border-radius: 10px;
+        margin-right: 10px;
+            cursor: pointer;
+        height: 40px;
+        width: 110;
+            border: white;
+
+}
+#Volume {
+    background-color: aquamarine;
+        border-radius: 10px;
+        margin-right: 10px;
+            cursor: pointer;
+            height: 40px;
+    width: 110;
+        border: white;
+
+
+}
+#DigitalStorage{
+    background-color: blanchedalmond;
+        border-radius: 10px;
+        margin-right: 10px;
+            cursor: pointer;
+            height: 40px;
+    width: 110;
+        border: white;
+
+
+}
+#Energy {
+    background-color: rgb(226, 252, 200);
+        border-radius: 10px;
+        margin-right: 10px;
+            cursor: pointer;
+            height: 40px;
+    width: 110;
+        border: white;
+
+
+}
+#Area {
+    background-color: rgb(235, 199, 122);
+        border-radius: 10px;
+        margin-right: 10px;
+            cursor: pointer;
+            height: 40px;
+    width: 110;
+    
+    border: white;
+
+}
+#Curency{
+    background-color: rgb(115, 226, 71);
+        border-radius: 10px;
+        margin-top: 20px;
+        margin-bottom: 200px;
+        margin-right: 10px;
+            cursor: pointer;
+            height: 40px;
+    width: 110;
+    border: white;
+
+
+}
+
